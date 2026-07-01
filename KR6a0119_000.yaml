@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6a0119/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說鴦崛髻經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T02/T02n0119.xml
+    old_id: T02n0119
+hash: sha256:531b56adec519b7aeb8e8b58b551c09092c2a46158dad26a43347b4340993209
